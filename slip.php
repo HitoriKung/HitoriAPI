@@ -1,5 +1,5 @@
 <?php
-  include('class/hitori.class.php');
+  include('hitori.class.php');
   $api = new HitoriAPI();
   $licensekey = ""; //สามารถรับคีย์ได้ที่ https://topup.hitori.buzz/api
   $bankname = "NULL"; //กำหนดชื่อบัญชีผู้รับ เช่น "ด.ช. วงศกร เชื้อเพชร" หากไม่ต้องการใส่ NULL
