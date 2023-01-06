@@ -1,5 +1,5 @@
 <?php
-  include('class/hitori.class.php');
+  include('hitori.class.php');
   $api = new HitoriAPI();
   $licensekey = ""; //สามารถรับคีย์ได้ที่ https://topup.hitori.buzz/api
   $gift = ""; //ซองของขวัญแบบตัดแล้ว เช่น zhndV7bkXkdTsxggco
